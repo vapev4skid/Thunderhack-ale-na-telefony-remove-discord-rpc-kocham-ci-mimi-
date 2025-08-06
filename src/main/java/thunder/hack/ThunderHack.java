@@ -77,7 +77,6 @@ public class ThunderHack implements ModInitializer {
         Managers.subscribe();
 
         Render2DEngine.initShaders();
-        ModuleManager.rpc.startRpc();
 
         RUNTIME.addShutdownHook(new ManagerShutdownHook());
         RUNTIME.addShutdownHook(new ModuleShutdownHook());

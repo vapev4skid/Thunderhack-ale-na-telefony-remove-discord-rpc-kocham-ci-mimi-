@@ -198,7 +198,7 @@
   "descriptions.client.notifications": "Уведомления о действиях ThunderHack.",
   "descriptions.client.optifinecapes": "Позволяет видеть плащи Optifine",
   "descriptions.client.rotations": "Модуль отвечающий за настройку ротаций.",
-  "descriptions.client.discordrpc": "Дискорд статус",
+
   "descriptions.client.fastlatency": "Вычисляет пинг быстрее, чем метод Minecraft.",
   "descriptions.client.thundergui": "Еще один вариант графического интерфейса.",
   "descriptions.client.waypoints": "Отображает вейпоинты.",
@@ -220,7 +220,7 @@
   "descriptions.commands.openfolder": "Открыть папку с конфигами.",
   "descriptions.commands.prefix": "Изменить префикс клиента.",
   "descriptions.commands.resetbinds": "Удалить бинды из модулей.",
-  "descriptions.commands.rpc": "Установить свое изображение/гифку в DiscordRPC (только tenor или imgur!!!).",
+
   "descriptions.commands.blockesp": "Добавить блоки в BlockESP.",
   "descriptions.commands.staff": "Добавить игроков в staffBoard (игроки будут видны если они в ванише).",
   "descriptions.commands.tracker": "Добавить игроков в Tracker.",

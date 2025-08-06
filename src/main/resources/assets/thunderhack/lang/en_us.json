@@ -220,7 +220,7 @@
   "descriptions.client.notifications": "ThunderHack actions notifications.",
   "descriptions.client.optifinecapes": "Allows to see OptiFine capes without OptiFine.",
   "descriptions.client.rotations": "Module responsible for setting up rotations.",
-  "descriptions.client.discordrpc": "ThunderHack discord rich presence.",
+
   "descriptions.client.fastlatency": "Calculates ping faster than the minecraft method.",
   "descriptions.client.thundergui": "Another variant of gui.",
   "descriptions.client.waypoints": "Renders specified waypoints.",
@@ -242,7 +242,7 @@
   "descriptions.commands.openfolder": "Open folder with configs.",
   "descriptions.commands.prefix": "Change prefix of client.",
   "descriptions.commands.resetbinds": "Reset keybinds.",
-  "descriptions.commands.rpc": "Set custom picture/gif to DiscordRPC (Only tenor or imgur!!!).",
+
   "descriptions.commands.blockesp": "Add blocks to BlockESP.",
   "descriptions.commands.staff": "Add players to staff (players in vanish).",
   "descriptions.commands.tracker": "Add players to Tracker module.",

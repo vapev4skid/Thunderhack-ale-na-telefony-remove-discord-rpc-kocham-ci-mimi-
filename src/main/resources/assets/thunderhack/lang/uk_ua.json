@@ -164,7 +164,7 @@
   "descriptions.client.media": "Приховує ніки та скіни інших гравців.",
   "descriptions.client.notifications": "Повідомлення про дії ThunderHack.",
   "descriptions.client.optifinecapes": "Дозволяє бачити плащі Optifine",
-  "descriptions.client.discordrpc": "Дискорд статус",
+
   "descriptions.client.fastlatency": "Обчислює пінг швидше за метод Minecraft.",
   "descriptions.client.thundergui": "Ще один варіант графічного інтерфейсу.",
   "descriptions.client.waypoints": "Відображає вейпоінти.",
@@ -186,7 +186,7 @@
   "descriptions.commands.openfolder": "Відкрийте папку з конфігами.",
   "descriptions.commands.prefix": "Змінити префікс клієнта.",
   "descriptions.commands.resetbinds": "Видалити бинди із модулів.",
-  "descriptions.commands.rpc": "Встановити своє зображення/гіфку в DiscordRPC (тільки tenor або imgur!!!).",
+
   "descriptions.commands.blockesp": "Додати блоки до BlockESP.",
   "descriptions.commands.staff": "Додати гравців у staffBoard (гравці будуть видно якщо вони у ваніші).",
   "descriptions.commands.tracker": "Додати гравців у Tracker.",

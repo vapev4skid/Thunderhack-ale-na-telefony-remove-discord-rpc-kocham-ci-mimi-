@@ -159,7 +159,7 @@
   "descriptions.client.media": "Versteckt Nicknames und Skins anderer Spieler.",
   "descriptions.client.notifications": "Benachrichtigungen für ThunderHack-Aktionen.",
   "descriptions.client.optifinecapes": "Ermöglicht das Sehen von Optifine-Capes ohne Optifine.",
-  "descriptions.client.discordrpc": "ThunderHack Discord Rich Presence.",
+
   "descriptions.client.fastlatency": "Berechnet den Ping schneller als die Minecraft-Methode.",
   "descriptions.client.thundergui": "Eine weitere Variante der GUI.",
   "descriptions.client.waypoints": "Zeichnet bestimmte Wegpunkte.",
@@ -180,7 +180,7 @@
   "descriptions.commands.openfolder": "Öffnet den Ordner mit den Konfigurationen.",
   "descriptions.commands.prefix": "Ändert das Präfix des Clients.",
   "descriptions.commands.resetbinds": "Entfernt Tastenbelegungen von Modulen.",
-  "descriptions.commands.rpc": "Setzt ein benutzerdefiniertes Bild/GIF für DiscordRPC (Nur Tenor oder Imgur!!!).",
+
   "descriptions.commands.blockesp": "Fügt Blöcke zur Suche hinzu.",
   "descriptions.commands.staff": "Fügt Spieler zum Staff hinzu (Spieler im Unsichtbarkeitsmodus).",
   "descriptions.commands.tracker": "Fügt Spieler dem Tracker-Modul hinzu.",
