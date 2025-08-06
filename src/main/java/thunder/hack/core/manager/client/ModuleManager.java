@@ -287,7 +287,6 @@ public class ModuleManager implements IManager {
     public static sopretty sopretty = new sopretty();
 //    public static deletefakeforceop deletefakeforceop = new deletefakeforceop();
     public static ESP esp = new ESP();
-    public static RPC rpc = new RPC();
 
     public ModuleManager() {
         for (Field field : getClass().getDeclaredFields()) {
@@ -349,7 +348,6 @@ public class ModuleManager implements IManager {
 
         if (ConfigManager.firstLaunch) {
             ModuleManager.notifications.enable();
-            rpc.enable();
             soundFX.enable();
         }
     }
