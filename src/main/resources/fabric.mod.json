@@ -3,8 +3,8 @@
   "id": "thunderhack",
   "version": "4",
   "icon": "icon.png",
-  "name": "ThunderHack - dsc.gg/exploitcore",
-  "description": "Cheat thunderhack, edit V2 by dsc.gg/exploitcore",
+  "name": "ThunderHack - dsc.gg/exploitcore (RPC Removed)",
+  "description": "ThunderHack with RPC functionality removed - Source code only",
   "authors": [
     {
       "name": "pan4ur",
@@ -28,11 +28,6 @@
   "license": "GNU General Public License v3.0",
   "accessWidener": "thunderhack.accesswidener",
   "environment": "client",
-  "entrypoints": {
-    "main": [
-      "thunder.hack.ThunderHack"
-    ]
-  },
   "contact": {
   },
   "mixins": [
